@@ -12,7 +12,7 @@ AI-powered resume analyzer using Google Gemini and NLP. Upload your resume and j
 - Personalized course recommendations
 
 
-### 📄 Stock-Predictor AI (./Stock-Predictor AI)
+### 📄 Stock-Predictor AI
 🔮 AI-Powered Forecasting:
 Utilizes an LSTM (Long Short-Term Memory) model to predict the next 5 stock closing prices based on historical data.
 
